@@ -11,6 +11,6 @@
 
 [![TELE](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](@iloveomsk)
 [![WA](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/38267873354)
-[![GM](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](van0net@gmail.com)
+[![GM](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:van0net@gmail.com)
 
 [![](https://visitcount.itsvg.in/api?id=nowackmst&icon=5&color=6)](https://visitcount.itsvg.in)
